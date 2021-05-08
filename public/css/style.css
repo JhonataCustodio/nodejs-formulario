@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  a {
+    color: #00B7FF;
+  }
+
+  .center {
+    margin: auto;
+    border: 2px solid #363636;
+    padding: 20px;
+    background-color: #363636;
+    opacity: 1.0;
+    margin-top: -10%;
+    position: relative;
+    
+}
+.espaco {
+    margin-top: 5%;
+}
+.navBar {
+    height: 100px;
+    
+}
+
+.corpo{
+    background-color: white;
+    
+    
+}
+.botaoSalvar{
+    color: #4A4D56;
+    background-color: #AEEA00;
+}
+.form-1{
+    font-size: 28px;
+    color: #AEEA00;
+    margin-left: 25%;
+}
+.cardResultado{
+    border: 2px solid #363636;
+    background-color: #363636;
+}
+.table{
+  color: white;
+}
